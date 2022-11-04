@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChallengeChap7</string>
+    <string name="masukkan_username">Input Username</string>
+    <string name="masukkan_password">Input Password</string>
+    <string name="belum_memiliki_akun">Don\'t have account?</string>
+    <string name="masukkan_nama_lengkap">Input Fullname</string>
+    <string name="konfirmasi_password">Confirm Password</string>
+    <string name="sudah_memiliki_akun">Have account?</string>
+    <string name="selamat_datang">Wellcome,</string>
+    <string name="nama_lengkap">Fullname</string>
+    <string name="nama_film">Film Name</string>
+    <string name="link_gambar">Image Link</string>
+    <string name="sutradara_film">Film\'s Director</string>
+    <string name="deskripsi_film">Description</string>
+    <string name="tambah_film">Add Film</string>
+    <string name="perbarui_film">Update Film</string>
+    <string name="profil">Profile</string>
+    <string name="ubah">Update</string>
+    <string name="keluar">Logout</string>
+    <string name="indonesia">Indonesian</string>
+    <string name="inggris">English</string>
+    <string name="ubah_bahasa">Change Language</string>
+    <string name="isi_masukan">Please fill all field</string>
+    <string name="login_gagal">Login Failed</string>
+    <string name="favorit">Favorite</string>
+    <string name="login_berhasil">Login Success</string>
+    <string name="ubah_data_berhasil">Update Success</string>
+    <string name="ubah_data_gagal">Update Failed</string>
+</resources>
